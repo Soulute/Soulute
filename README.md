@@ -1,5 +1,5 @@
 <div id="bigtwo" align="center">
-  Sometimes I make cool things.
+  I make cool things.
   <br>
   <br>
   <br>
